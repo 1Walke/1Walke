@@ -1,38 +1,124 @@
-# Misael | Desenvolvedor Back-End | Construindo Soluções Tecnológicas que Impactam a Sociedade
+# 👨‍💻 Misael Cardoso  
+### Desenvolvedor Back-End | Web Developer | Construindo soluções reais
 
-<div style="text-align: center; font-size: 1.5em; color: #4CAF50;">
-    🚀 <strong>Desenvolvedor Back-End | Apaixonado por Tecnologias Emergentes | Sempre Aprendendo</strong>
-</div>
+<p align="center">
+  🚀 Focado em desenvolvimento back-end, sistemas web e soluções escaláveis  
+</p>
 
-<p style="font-size: 1.2em;">Sou um desenvolvedor back-end com uma forte paixão por criar soluções inovadoras e escaláveis. Ao longo da minha carreira, me especializei em diversas linguagens e tecnologias, como <strong>C</strong>, <strong>C#</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, e <strong>Databases</strong>. Estou sempre em busca de novos desafios e acredito que a melhor forma de crescer é compartilhando conhecimento e colaborando em projetos de código aberto.</p>
+---
 
-<h3 style="color: #007bff;">🔍 Principais Tecnologias e Ferramentas:</h3>
-<ul style="font-size: 1.1em;">
-    <li><strong>Frontend</strong>: HTML5, CSS3, JavaScript</li></li>
-    <li><strong>Backend</strong>: Node.js, C, C# 
-    <li><strong>Database</strong>: MySQL</li>
-    <li><strong>DevOps</strong>: GitHub Actions</li>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"" alt="Discord Bot GiF" style="width: 50px; height: 50px;"/></li>
-</ul>
+## 🧠 Sobre mim
 
-<h3 style="color: #007bff;">🌱 Atualmente, estou aprendendo:</h3>
-<ul style="font-size: 1.1em;">
-    <li><strong>Cybersecurity</strong></li>
-</ul>
+Sou desenvolvedor com foco em **back-end** e desenvolvimento de sistemas web.  
+Tenho experiência prática construindo aplicações completas com autenticação, banco de dados e integração com APIs.
 
-<h3 style="color: #007bff;">🔧 Projetos e Contribuições:</h3>
-<p>Tenho orgulho de contribuir para a comunidade de código aberto e estou sempre buscando maneiras de melhorar a qualidade do software que desenvolvo. Se você tem um projeto interessante ou um desafio técnico, estou aberto a colaborações e feedbacks construtivos.</p>
+Gosto de trabalhar em projetos que envolvem **lógica, performance e arquitetura**, e estou sempre evoluindo minhas habilidades com novas tecnologias.
 
-<ul style="font-size: 1.1em;">
-    <li><strong>Desenvolvedor de Servidor SAMP</strong>: Linguagens utilizadas no projeto: Pawno, C e SQL.</li>
-    <li><strong>Discord Developer</strong>: Criação de automações de atividades utilizando bots no Discord, com linguagens JavaScript e Python.</li>
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord Bot GIF" style="width: 50px; height: 50px;"/></li>
-</ul>
+---
 
-<h3 style="color: #007bff;">🎯 Objetivo:</h3>
-<p>Meu objetivo é criar soluções que impactem positivamente a sociedade e ajudem a melhorar o dia a dia das pessoas por meio da tecnologia. Estou sempre em busca de aprendizado e aprimoramento contínuo para me tornar um desenvolvedor mais completo e eficiente.</p>
+## ⚙️ Tecnologias & Ferramentas
 
-<h3 style="color: #007bff;">📫 Como me encontrar:</h3>
-<p><strong>Email</strong>: <a href="mailto:misaelcardoso778@gmail.com">misaelcardoso778@gmail.com</a></p>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"" alt="Discord Bot GIF" style="width: 50px; height: 50px;"/></li>
+### 💻 Linguagens
+- C
+- C#
+- JavaScript
+- Python
+- PHP
 
+### 🌐 Web
+- HTML5
+- CSS3
+- JavaScript (DOM, Fetch, APIs)
+
+### 🔙 Back-end
+- PHP (sistemas completos com autenticação)
+- Node.js (básico/intermediário)
+- Desenvolvimento de APIs REST
+
+### 🗄️ Banco de Dados
+- MySQL
+- Modelagem relacional
+- Integração com PHP
+
+### 🔌 Outros
+- WebSockets (tempo real)
+- Git & GitHub
+- XAMPP / ambiente local
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔐 Sistema de Cadastro com Verificação de E-mail
+- Validação antes de persistir dados
+- Integração PHP + MySQL
+- Lógica de segurança e fluxo de autenticação
+
+---
+
+### 💬 Sistema de Chat Web
+- Arquitetura com WebSocket
+- Tempo real
+- Integração com banco de dados
+
+---
+
+### 🍔 Acolhe Food (Projeto em desenvolvimento)
+- Sistema web com login e interface personalizada
+- Foco em UX + back-end estruturado
+- Integração completa front + back
+
+---
+
+### 🎮 Servidor SA-MP
+- Scripts com Pawno, C e SQL
+- Lógica de servidor multiplayer
+- Manipulação de eventos e dados em tempo real
+
+---
+
+### 🤖 Bots para Discord
+- Automações com JavaScript e Python
+- Integração com APIs
+- Sistemas de comandos e eventos
+
+---
+
+## 📚 Atualmente estudando
+
+- 🔐 Cybersecurity
+- 🧠 Arquitetura de sistemas
+- ⚡ Otimização e boas práticas de back-end
+
+---
+
+## 🎯 Objetivo
+
+Construir sistemas que resolvam problemas reais, com foco em:
+
+- Performance ⚡  
+- Segurança 🔐  
+- Escalabilidade 📈  
+
+Busco evoluir como desenvolvedor e participar de projetos cada vez mais desafiadores.
+
+---
+
+## 📫 Contato
+
+📧 Email: **misaelcardoso778@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 Frase
+
+> "Código não é só sobre funcionar — é sobre ser eficiente, escalável e bem estruturado."
