@@ -1,124 +1,137 @@
-# 👨‍💻 Misael Cardoso  
-### Desenvolvedor Back-End | Web Developer | Construindo soluções reais
-
-<p align="center">
-  🚀 Focado em desenvolvimento back-end, sistemas web e soluções escaláveis  
-</p>
+# Misael Cardoso  
+### Desenvolvedor Back-End | Desenvolvedor Desktop (C#) | Web Developer
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor com foco em **back-end** e desenvolvimento de sistemas web.  
-Tenho experiência prática construindo aplicações completas com autenticação, banco de dados e integração com APIs.
+Sou desenvolvedor com foco em back-end e desenvolvimento de sistemas, atuando tanto em aplicações web quanto desktop. Tenho experiência na construção de soluções completas, envolvendo autenticação, integração com banco de dados, consumo de APIs e organização de regras de negócio.
 
-Gosto de trabalhar em projetos que envolvem **lógica, performance e arquitetura**, e estou sempre evoluindo minhas habilidades com novas tecnologias.
-
----
-
-## ⚙️ Tecnologias & Ferramentas
-
-### 💻 Linguagens
-- C
-- C#
-- JavaScript
-- Python
-- PHP
-
-### 🌐 Web
-- HTML5
-- CSS3
-- JavaScript (DOM, Fetch, APIs)
-
-### 🔙 Back-end
-- PHP (sistemas completos com autenticação)
-- Node.js (básico/intermediário)
-- Desenvolvimento de APIs REST
-
-### 🗄️ Banco de Dados
-- MySQL
-- Modelagem relacional
-- Integração com PHP
-
-### 🔌 Outros
-- WebSockets (tempo real)
-- Git & GitHub
-- XAMPP / ambiente local
+Trabalho com desenvolvimento em PHP e também com aplicações desktop em C# (Windows Forms), o que me permite atuar em diferentes tipos de sistemas e contextos. Busco constantemente evoluir minhas habilidades técnicas por meio de projetos práticos e estudo contínuo.
 
 ---
 
-## 🚀 Projetos em destaque
+## Tecnologias e Ferramentas
 
-### 🔐 Sistema de Cadastro com Verificação de E-mail
-- Validação antes de persistir dados
-- Integração PHP + MySQL
-- Lógica de segurança e fluxo de autenticação
+**Linguagens:**  
+C, C#, JavaScript, PHP  
 
----
+**Desenvolvimento Web:**  
+HTML5, CSS3, JavaScript  
 
-### 💬 Sistema de Chat Web
-- Arquitetura com WebSocket
-- Tempo real
-- Integração com banco de dados
+**Back-end:**  
+PHP (desenvolvimento de sistemas completos)  
+Node.js (básico/intermediário)  
+APIs REST (consumo e integração)  
 
----
+**Desktop:**  
+C# (Windows Forms)  
+Desenvolvimento de interfaces e lógica de aplicações desktop  
 
-### 🍔 Acolhe Food (Projeto em desenvolvimento)
-- Sistema web com login e interface personalizada
-- Foco em UX + back-end estruturado
-- Integração completa front + back
+**Banco de Dados:**  
+MySQL  
+Modelagem de dados relacional  
 
----
-
-### 🎮 Servidor SA-MP
-- Scripts com Pawno, C e SQL
-- Lógica de servidor multiplayer
-- Manipulação de eventos e dados em tempo real
+**Outros:**  
+WebSockets (comunicação em tempo real)  
+Git e GitHub  
+XAMPP  
 
 ---
 
-### 🤖 Bots para Discord
-- Automações com JavaScript e Python
-- Integração com APIs
-- Sistemas de comandos e eventos
+## Projetos em destaque
+
+### Sistema de Aluguel de Máquinas Pesadas (TCC)
+
+Desenvolvimento de um sistema para gestão de locação de máquinas pesadas, com foco em controle de processos, organização de dados e confiabilidade das informações.
+
+**Principais funcionalidades:**
+- Cadastro e gerenciamento de clientes  
+- Cadastro e controle de máquinas  
+- Registro e acompanhamento de locações  
+- Controle de datas e disponibilidade  
+- Sistema de autenticação de usuários  
+
+**Aspectos técnicos:**
+- Desenvolvimento back-end em PHP  
+- Integração com banco de dados MySQL  
+- Modelagem relacional das entidades  
+- Utilização de sessões para autenticação  
+- Organização do sistema com include/require  
+- Consumo de APIs externas  
+- Tratamento e validação de dados  
+
+**Objetivo do projeto:**
+Substituir processos manuais na gestão de locações, reduzindo erros e melhorando o controle das informações.
 
 ---
 
-## 📚 Atualmente estudando
+### Aplicações Desktop em C# (Windows Forms)
 
-- 🔐 Cybersecurity
-- 🧠 Arquitetura de sistemas
-- ⚡ Otimização e boas práticas de back-end
+Desenvolvimento de sistemas desktop com foco em interface e integração com regras de negócio.
 
----
-
-## 🎯 Objetivo
-
-Construir sistemas que resolvam problemas reais, com foco em:
-
-- Performance ⚡  
-- Segurança 🔐  
-- Escalabilidade 📈  
-
-Busco evoluir como desenvolvedor e participar de projetos cada vez mais desafiadores.
+**Características:**
+- Criação de formulários e interfaces interativas  
+- Manipulação de eventos (cliques, teclado, etc.)  
+- Integração com banco de dados  
+- Estruturação de código e organização de lógica  
 
 ---
 
-## 📫 Contato
+### Sistema de Cadastro com Verificação de E-mail
 
-📧 Email: **misaelcardoso778@gmail.com**
+- Validação de dados antes do armazenamento  
+- Integração entre PHP e MySQL  
+- Implementação de fluxo de verificação de e-mail  
 
 ---
 
-## 📊 GitHub Stats
+### Sistema de Chat Web
+
+- Comunicação em tempo real com WebSocket  
+- Integração com banco de dados  
+- Estrutura voltada para múltiplos usuários  
+
+---
+
+### Acolhe Food (em desenvolvimento)
+
+- Sistema web com autenticação de usuários  
+- Desenvolvimento de interface e integração com back-end  
+- Organização de fluxo de dados entre cliente e servidor  
+
+---
+
+### Bots para Discord
+
+- Desenvolvimento de automações com JavaScript e Python  
+- Integração com APIs  
+- Implementação de comandos e eventos  
+
+---
+
+## Atualmente estudando
+ 
+- Arquitetura de sistemas  
+- Boas práticas e otimização no back-end  
+
+---
+
+## Objetivo
+
+Atuar no desenvolvimento de sistemas que resolvam problemas reais, tanto em ambiente web quanto desktop, com foco em organização, desempenho e qualidade de código. Busco oportunidades que permitam crescimento técnico e participação em projetos mais complexos.
+
+---
+
+## Contato
+
+Email: misaelcardoso778@gmail.com  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 💡 Frase
-
-> "Código não é só sobre funcionar — é sobre ser eficiente, escalável e bem estruturado."
