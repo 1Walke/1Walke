@@ -83,7 +83,6 @@ Projeto web desenvolvido com foco em funcionalidades de cadastro e experiência 
 
 - **E-mail:** [misaelcardoso778@gmail.com](mailto:misaelcardoso778@gmail.com)
 - **GitHub:** [github.com/1Walke](https://github.com/1Walke)
+- **Linkedin:** www.linkedin.com/in/misaelcardoso
 
 ---
-
-*Obrigado por visitar meu perfil!*
