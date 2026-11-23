@@ -1,137 +1,89 @@
-# Misael Cardoso  
-### Desenvolvedor Back-End | Desenvolvedor Desktop (C#) | Web Developer
+# Misael Cardoso Pereira
 
----
+**Desenvolvedor Back-End Júnior | C# · .NET · ASP.NET Core Web API**
+
+[![GitHub](https://img.shields.io/badge/GitHub-1Walke-181717?style=flat&logo=github)](https://github.com/1Walke)
 
 ## Sobre mim
 
-Sou desenvolvedor com foco em back-end e desenvolvimento de sistemas, atuando tanto em aplicações web quanto desktop. Tenho experiência na construção de soluções completas, envolvendo autenticação, integração com banco de dados, consumo de APIs e organização de regras de negócio.
+Sou Desenvolvedor Back-End Júnior, com atuação profissional no desenvolvimento de APIs e sistemas utilizando **C# e .NET**. Trabalho com **ASP.NET Core Web API**, integração com bancos de dados relacionais e implementação de regras de negócio, buscando construir soluções organizadas, eficientes e de fácil manutenção.
 
-Trabalho com desenvolvimento em PHP e também com aplicações desktop em C# (Windows Forms), o que me permite atuar em diferentes tipos de sistemas e contextos. Busco constantemente evoluir minhas habilidades técnicas por meio de projetos práticos e estudo contínuo.
+Tenho experiência com **Entity Framework Core**, consultas com **LINQ**, estruturação de endpoints REST, DTOs e integração com **SQL Server**. Também desenvolvi projetos web com PHP e aplicações desktop utilizando C# Windows Forms, experiências que ampliaram minha visão sobre diferentes arquiteturas e necessidades de software.
 
----
+Concluí formação técnica em **Desenvolvimento de Software para Negócios pelo SENAI** e mantenho uma rotina de aprendizado por meio de projetos práticos, estudos e desafios de programação.
 
-## Tecnologias e Ferramentas
+## Experiência e conquistas
 
-**Linguagens:**  
-C, C#, JavaScript, PHP  
+### WorldSkills — 2º lugar na etapa estadual do Espírito Santo
 
-**Desenvolvimento Web:**  
-HTML5, CSS3, JavaScript  
+**Ocupação: Desenvolvimento de Software para Negócios**
 
-**Back-end:**  
-PHP (desenvolvimento de sistemas completos)  
-Node.js (básico/intermediário)  
-APIs REST (consumo e integração)  
+Participei do processo de preparação e dos treinamentos técnicos da WorldSkills, desenvolvendo soluções e resolvendo desafios práticos sob pressão. A preparação envolveu atividades de lógica de programação e desenvolvimento de aplicações com **C# e Windows Forms**, exigindo atenção aos requisitos, organização do código, raciocínio lógico e resolução de problemas.
 
-**Desktop:**  
-C# (Windows Forms)  
-Desenvolvimento de interfaces e lógica de aplicações desktop  
+Conquistei o **2º lugar na etapa estadual do Espírito Santo**, uma experiência que fortaleceu minha capacidade de analisar problemas, trabalhar com prazos e buscar soluções técnicas consistentes.
 
-**Banco de Dados:**  
-MySQL  
-Modelagem de dados relacional  
+## Tecnologias e ferramentas
 
-**Outros:**  
-WebSockets (comunicação em tempo real)  
-Git e GitHub  
-XAMPP  
+### Back-End — foco principal
 
----
+- **C# e .NET**
+- **ASP.NET Core Web API**
+- **Entity Framework Core**
+- LINQ e DTOs
+- APIs REST e integração entre sistemas
+- SQL Server
+
+### Banco de dados
+
+- SQL Server
+- MySQL
+- PostgreSQL (em estudos e projetos práticos)
+- Modelagem relacional e consultas SQL
+
+### Outras tecnologias
+
+- PHP
+- JavaScript, TypeScript e Node.js
+- Python e C
+- HTML5 e CSS3
+- C# Windows Forms
+- Git e GitHub (branches, commits, pull requests e resolução de conflitos)
+- Docker
 
 ## Projetos em destaque
 
-### Sistema de Aluguel de Máquinas Pesadas (TCC)
+### [HeavyRent — Sistema de locação de máquinas pesadas](https://github.com/1Walke/HeavyRent)
 
-Desenvolvimento de um sistema para gestão de locação de máquinas pesadas, com foco em controle de processos, organização de dados e confiabilidade das informações.
+Projeto de conclusão de curso (TCC) voltado à gestão de locações de máquinas pesadas, com funcionalidades para organizar informações e apoiar o controle operacional.
 
-**Principais funcionalidades:**
-- Cadastro e gerenciamento de clientes  
-- Cadastro e controle de máquinas  
-- Registro e acompanhamento de locações  
-- Controle de datas e disponibilidade  
-- Sistema de autenticação de usuários  
+- Cadastro e gerenciamento de clientes e máquinas.
+- Registro e acompanhamento de locações e disponibilidade.
+- Autenticação e controle de acesso.
+- Integração com banco de dados relacional.
+- Recursos de registro e auditoria de operações.
+- Desenvolvimento web com PHP e MySQL, com módulo desktop em C# Windows Forms.
 
-**Aspectos técnicos:**
-- Desenvolvimento back-end em PHP  
-- Integração com banco de dados MySQL  
-- Modelagem relacional das entidades  
-- Utilização de sessões para autenticação  
-- Organização do sistema com include/require  
-- Consumo de APIs externas  
-- Tratamento e validação de dados  
+### [Acolhe Food](https://github.com/1Walke/acolhe-food)
 
-**Objetivo do projeto:**
-Substituir processos manuais na gestão de locações, reduzindo erros e melhorando o controle das informações.
+Projeto web desenvolvido com foco em funcionalidades de cadastro e experiência do usuário.
 
----
+- Fluxos de cadastro e autenticação.
+- Validação de dados e verificação de e-mail.
+- Integração entre PHP, JavaScript e banco de dados.
 
-### Aplicações Desktop em C# (Windows Forms)
+## Atualmente aprofundando
 
-Desenvolvimento de sistemas desktop com foco em interface e integração com regras de negócio.
-
-**Características:**
-- Criação de formulários e interfaces interativas  
-- Manipulação de eventos (cliques, teclado, etc.)  
-- Integração com banco de dados  
-- Estruturação de código e organização de lógica  
-
----
-
-### Sistema de Cadastro com Verificação de E-mail
-
-- Validação de dados antes do armazenamento  
-- Integração entre PHP e MySQL  
-- Implementação de fluxo de verificação de e-mail  
-
----
-
-### Sistema de Chat Web
-
-- Comunicação em tempo real com WebSocket  
-- Integração com banco de dados  
-- Estrutura voltada para múltiplos usuários  
-
----
-
-### Acolhe Food (em desenvolvimento)
-
-- Sistema web com autenticação de usuários  
-- Desenvolvimento de interface e integração com back-end  
-- Organização de fluxo de dados entre cliente e servidor  
-
----
-
-### Bots para Discord
-
-- Desenvolvimento de automações com JavaScript e Python  
-- Integração com APIs  
-- Implementação de comandos e eventos  
-
----
-
-## Atualmente estudando
- 
-- Arquitetura de sistemas  
-- Boas práticas e otimização no back-end  
-
----
-
-## Objetivo
-
-Atuar no desenvolvimento de sistemas que resolvam problemas reais, tanto em ambiente web quanto desktop, com foco em organização, desempenho e qualidade de código. Busco oportunidades que permitam crescimento técnico e participação em projetos mais complexos.
-
----
+- Arquitetura e organização de aplicações .NET.
+- Boas práticas no desenvolvimento de APIs REST.
+- Entity Framework Core e otimização de consultas.
+- Testes automatizados em C#.
+- Docker e integração de aplicações com bancos de dados.
 
 ## Contato
 
-Email: misaelcardoso778@gmail.com  
+- **E-mail:** [misaelcardoso778@gmail.com](mailto:misaelcardoso778@gmail.com)
+- **GitHub:** [github.com/1Walke](https://github.com/1Walke)
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
-</p>
+*Obrigado por visitar meu perfil!*
