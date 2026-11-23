@@ -52,7 +52,7 @@ Conquistei o **2º lugar na etapa estadual do Espírito Santo**, uma experiênci
 
 ## Projetos em destaque
 
-### [HeavyRent — Sistema de locação de máquinas pesadas](https://github.com/1Walke/HeavyRent)
+### [HeavyRent — Sistema de locação de máquinas pesadas](https://github.com/StarkVM/ProjetoTCCSenai.git)
 
 Projeto de conclusão de curso (TCC) voltado à gestão de locações de máquinas pesadas, com funcionalidades para organizar informações e apoiar o controle operacional.
 
